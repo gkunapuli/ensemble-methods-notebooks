@@ -13,6 +13,7 @@ This book is a work in progress and expected to be released in late 2020.
     * [1.4: A Simple Model Averaging Ensemble](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch1.4-model-averaging-example.ipynb?flush_cache=True)
     
 * Chapter 2: Homogeneous Parallel Ensembles: Bagging and Random Forests
+   * [2.2: Bagging](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch2.2-bagging.ipynb?flush_cache=True)
 
 * Chapter 3: Heterogeneous Parallel Ensembles: Combining Strong Learners
 
