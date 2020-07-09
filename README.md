@@ -17,6 +17,11 @@ This book is a work in progress and expected to be released some time in 2020.
    * [2.5. Case Study: Breast Cancer Diagnosis](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch2.5-case-study-breast-cancer-diagnosis.ipynb?flush_cache=True)
 
 * Chapter 3: Heterogeneous Parallel Ensembles: Combining Strong Learners
+   * [3.1 Base Estimators for Heterogeneous Ensembles](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch3.1-base-estimators-for-heterogeneous-ensembles.ipynb?flush_cache=True)
+   * [3.2 Combining Predictions by Weighting](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch3.2-combining-predictions-by-weighting.ipynb?flush_cache=True)
+   * [3.3 Combining Predictions by Meta-Learning](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch3.3-combining-predictions-by-meta-learning.ipynb?flush_cache=True)
+   * [3.2 Case Study: Sentiment Analysis](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch3.4-case-study-sentiment-analysis.ipynb?flush_cache=True)
+
 
 * Chapter 4: Sequential Ensembles: Boosting
 
