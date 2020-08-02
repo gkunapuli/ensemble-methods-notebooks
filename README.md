@@ -27,7 +27,7 @@ This book is a work in progress and expected to be released some time in 2020.
    * [4.1, 4.2 AdaBoost: Adaptive Boosting](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch4.1and4.2-sequential-ensembles-and-Adaboost.ipynb?flush_cache=True)
    * [4.3 AdaBoost in Practice](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch4.3-AdaBoost-in-practice.ipynb?flush_cache=True)
    * [4.4 Case Study: Handwritten Digit Classification](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch4.4-case-study-handwritten-digit-classification.ipynb?flush_cache=True)
-   * [4.5 LogitBoost: Boosting with the Logistic Loss](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch4.5-LogitBoost-boosting-wht-the-logistic-loss.ipynb?flush_cache=True)
+   * [4.5 LogitBoost: Boosting with the Logistic Loss](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch4.5-LogitBoost-boosting-with-the-logistic-loss.ipynb?flush_cache=True)
 
 * Chapter 5: Sequential Ensembles: Gradient Boosting
 
