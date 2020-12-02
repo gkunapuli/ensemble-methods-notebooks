@@ -4,7 +4,7 @@ This repository contains companion material: data, Python code and Jupyter noteb
 
 These notebooks primarily use Python 3.7, scikit-learn 0.21 and matplotlib 3.2.1, though other packages such as pandas, seaborn and Keras make guest appearances as well.
 
-This book is a work in progress and expected to be released some time in 2020.
+This book is a work in progress and expected to be released some time in early 2021.
 
 ## List of notebooks
 
