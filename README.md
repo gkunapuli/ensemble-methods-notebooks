@@ -30,5 +30,9 @@ This book is a work in progress and expected to be released some time in early 2
    * [4.5 LogitBoost: Boosting with the Logistic Loss](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch4.5-LogitBoost-boosting-with-the-logistic-loss.ipynb?flush_cache=True)
 
 * Chapter 5: Sequential Ensembles: Gradient Boosting
+   * [5.1 Gradient Descent for Minimization](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch5.1-gradient-descent-for-minimization.ipynb?flush_cache=True)
+   * [5.2 Gradient Boosting = Gradient Descent + Boosting](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch5.2-gradient-boosting.ipynb?flush_cache=True)
+   * [5.3, 5.4 Practical Boosting with LightGBM](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch5.3and5.4-practical-boosting-with-lightgbm.ipynb?flush_cache=True)
+   * [5.5 Case Study: Document Retrieval](https://nbviewer.jupyter.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch5.5-case-study-document-retrieval.ipynb?flush_cache=True)
 
 * Chapter 6: Sequential Ensembles: Newton Boosting
