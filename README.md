@@ -1,6 +1,6 @@
 # Jupyter notebooks for "Ensemble Methods for Machine Learning"
 
-This repository contains companion material: data, Python code and Jupyter notebooks for [Ensemble Methods for Machine Learning (Manning Publications)](https://www.manning.com/). The code and notebooks are released under the [MIT license](https://github.com/gkunapuli/ensemble-methods-notebooks/blob/master/LICENSE).
+This repository contains companion material: data, Python code and Jupyter notebooks for [Ensemble Methods for Machine Learning (Manning Publications)](https://www.manning.com/books/ensemble-methods-for-machine-learning). The code and notebooks are released under the [MIT license](https://github.com/gkunapuli/ensemble-methods-notebooks/blob/master/LICENSE).
 
 These notebooks primarily use Python 3.7, scikit-learn 0.21 and matplotlib 3.2.1, though other packages such as pandas, seaborn and Keras make guest appearances as well.
 
