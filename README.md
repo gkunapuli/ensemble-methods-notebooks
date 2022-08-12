@@ -51,7 +51,7 @@ This book is a work in progress and expected to be released some time in Fall 20
     * [8.3 Case Study: Income Prediction](https://nbviewer.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch8.3-case-study-income-prediction.ipynb?flush_cache=True)
 	* [8.4 Encoding High-Cardinality String Features](https://nbviewer.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch8.4-high-cardinality-categories.ipynb?flush_cache=True)
 
-* Chapter 9: Learning with Categorical Labels
+* Chapter 9: Explaining Your Ensembles
 	* [9.1 What is Interpretability? Black-Box vs. Glass-Box Models](https://nbviewer.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch9.1-glassbox-vs-blackbox-models.ipynb?flush_cache=True)
 	* [9.2 Case Study: Data-driven Marketing](https://nbviewer.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch9.2-case-study-data-driven-marketing.ipynb?flush_cache=True)
 	* [9.3 Black-Box Methods for Global Explainability](https://nbviewer.org/github/gkunapuli/ensemble-methods-notebooks/blob/master/Ch9.3-black-box-methods-for-global-explainability.ipynb?flush_cache=True)
